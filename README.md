@@ -6,3 +6,8 @@
 
 ## Functions
 Feed and Clean
+
+## How to run
+```shell
+sh castscript.sh
+```
